@@ -1,0 +1,9 @@
+streamlit
+requests
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+scikit-learn
